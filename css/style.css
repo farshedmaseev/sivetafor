@@ -1,0 +1,28 @@
+.divone{
+	background-color: black;
+	width: 300px;
+	height: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 20px;
+}
+.divin1,.divin2,.divin3{
+	background-color:black;
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	margin: 20px auto ;
+}
+.divin1:hover{
+	background-color: red;
+	transition: 0.7s;
+}
+.divin2:hover{
+	background-color: yellow;
+	transition: 0.7s;
+}
+.divin3:hover{
+	background-color: green;
+	transition: 0.7s;
+}
+
